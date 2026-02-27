@@ -1,8 +1,8 @@
 # typeshed
 
-[![Tests](https://github.com/python/typeshed/actions/workflows/tests.yml/badge.svg)](https://github.com/python/typeshed/actions/workflows/tests.yml)
+[![Tests](https://github.com/Unity-Billal-mesloub/typeshed/actions/workflows/tests.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/typeshed/actions/workflows/tests.yml)
 [![Chat at https://gitter.im/python/typing](https://badges.gitter.im/python/typing.svg)](https://gitter.im/python/typing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Pull Requests Welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen.svg)](https://github.com/python/typeshed/blob/main/CONTRIBUTING.md)
+[![Pull Requests Welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen.svg)](https://github.com/Unity-Billal-mesloub/typeshed/blob/main/CONTRIBUTING.md)
 
 ## About
 
@@ -25,8 +25,8 @@ Typeshed supports Python versions 3.10 to 3.14.
 
 ## Using
 
-If you're just using a type checker (e.g. [mypy](https://github.com/python/mypy/),
-[pyright](https://github.com/microsoft/pyright), or PyCharm's built-in type
+If you're just using a type checker (e.g. [mypy](https://github.com/Unity-diverse-range-of-warehouses/mypy/),
+[pyright](https://github.com/Unity-Billal-mesloub/pyright), or PyCharm's built-in type
 checker), as opposed to
 developing it, you don't need to interact with the typeshed repo at
 all: a copy of the standard library part of typeshed is bundled with type checkers.
@@ -40,7 +40,7 @@ $ pip install types-html5lib types-requests
 
 These PyPI packages follow [the typing spec standards](https://typing.python.org/en/latest/spec/distributing.html)
 and are automatically released (up to once a day) by
-[typeshed internal machinery](https://github.com/typeshed-internal/stub_uploader).
+[typeshed internal machinery](https://github.com/Unity-Billal-mesloub/stub_uploader).
 
 Type checkers should be able to use these stub packages when installed. For more
 details, see the documentation for your type checker.
@@ -101,7 +101,7 @@ a problem arises that can't easily be fixed.
 typeshed includes a package `_typeshed` as part of the standard library.
 This package and its submodules contain utility types, but are not
 available at runtime. For more information about how to use this package,
-[see the `stdlib/_typeshed` directory](https://github.com/python/typeshed/tree/main/stdlib/_typeshed).
+[see the `stdlib/_typeshed` directory](https://github.com/Unity-Billal-mesloub/typeshed/tree/main/stdlib/_typeshed).
 
 ## Discussion
 
@@ -110,13 +110,13 @@ stubs for a given library are incorrect or incomplete,
 we want to hear from you!
 
 Our main forum for discussion is the project's [GitHub issue
-tracker](https://github.com/python/typeshed/issues).  This is the right
+tracker](https://github.com/Unity-Billal-mesloub/typeshed/issues).  This is the right
 place to start a discussion of any of the above or most any other
 topic concerning the project.
 
 If you have general questions about typing with Python, or you need
 a review of your type annotations or stubs outside of typeshed, head over to
-[our discussion forum](https://github.com/python/typing/discussions).
+[our discussion forum](https://github.com/Unity-Billal-mesloub/typing/discussions).
 For less formal discussion, try the typing chat room on
 [gitter.im](https://gitter.im/python/typing).  Some typeshed maintainers
 are almost always present; feel free to find us there, and we're happy
